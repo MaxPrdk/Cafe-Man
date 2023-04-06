@@ -1,0 +1,16 @@
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\bin\Debug\CafeMenegment.exe.config
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\bin\Debug\CafeMenegment.exe
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\bin\Debug\CafeMenegment.pdb
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.csproj.AssemblyReference.cache
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.Properties.Resources.resources
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.csproj.GenerateResource.cache
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.csproj.CoreCompileInputs.cache
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.csproj.CopyComplete
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.exe
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.pdb
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.Login.resources
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.Billing.resources
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.Settings.resources
+C:\Users\maxpr\OneDrive\Робочий стіл\University\CafeMenegment\CafeMenegment\obj\Debug\CafeMenegment.User.resources
